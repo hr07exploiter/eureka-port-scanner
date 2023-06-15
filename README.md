@@ -5,7 +5,7 @@ It is a very simple port scanner tool used for scanning open ports on a URLs or 
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/hr07exploiter/eureka-port-scanner.git
 cd eureka-port-scanner
-python3 main.py
+python3 eureka.py
 ```
