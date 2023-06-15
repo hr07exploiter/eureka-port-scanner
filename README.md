@@ -33,4 +33,4 @@ py eureka.py
   
   <br>
   
-   ### <center> Developed By:- Shubham Yadav </center>
+   ### <p align="center">Developed By:- Shubham Yadav </p>
