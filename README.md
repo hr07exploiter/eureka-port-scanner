@@ -9,3 +9,15 @@ git clone https://github.com/hr07exploiter/eureka-port-scanner.git
 cd eureka-port-scanner
 python3 eureka.py
 ```
+
+
+
+## Installation [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) [![alt tag](https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/256/Folders-OS-Windows-8-Metro-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
+
+NOTE:- For Windows Installation user must install python3 into their system. [Click Here to Download Python3](https://www.python.org/downloads/)
+
+```bash
+git clone https://github.com/hr07exploiter/eureka-port-scanner.git
+cd eureka-port-scanner
+py eureka.py
+```
